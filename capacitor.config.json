@@ -1,0 +1,28 @@
+{
+  "appId": "com.raveclone.app",
+  "appName": "RaveClone",
+  "webDir": "dist",
+  "plugins": {
+    "FirebaseAuthentication": {
+      "skipNativeAuth": false,
+      "providers": [
+        "google.com"
+      ]
+    },
+    "FirebaseMessaging": {
+      "presentationOptions": [
+        "badge",
+        "sound",
+        "alert"
+      ]
+    }
+  },
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": [
+      "*.youtube.com",
+      "*.youtu.be",
+      "*.googlevideo.com"
+    ]
+  }
+}

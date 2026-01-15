@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RaveClone</string>
+    <string name="title_activity_main">RaveClone</string>
+    <string name="package_name">com.raveclone.app</string>
+    <string name="custom_url_scheme">com.raveclone.app</string>
+    <string name="default_web_client_id">685004091386-p6n79190glgtsbfqcvanlvkr1im5l1dr.apps.googleusercontent.com</string>
+
+</resources>

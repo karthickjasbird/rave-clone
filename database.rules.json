@@ -1,0 +1,20 @@
+{
+    "rules": {
+        ".read": "auth != null",
+        ".write": "auth != null",
+        "users": {
+            ".indexOn": [
+                "username",
+                "email",
+                "uid"
+            ]
+        },
+        "rooms": {
+            ".indexOn": [
+                "hostId",
+                "isPublic",
+                "createdAt"
+            ]
+        }
+    }
+}

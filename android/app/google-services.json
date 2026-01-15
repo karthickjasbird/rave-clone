@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685004091386",
+    "project_id": "raveclone-8688f",
+    "storage_bucket": "raveclone-8688f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685004091386:android:c8aac68853c9c96984be43",
+        "android_client_info": {
+          "package_name": "com.raveclone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685004091386-rh8uoqk45n7qsp32u4mtelds77t75sbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raveclone.app",
+            "certificate_hash": "1dcef93faae4bd8b2846da3ce9e252c3bf7ee43f"
+          }
+        },
+        {
+          "client_id": "685004091386-p6n79190glgtsbfqcvanlvkr1im5l1dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDkzIT-MqdP8m2HrWrekF1653eZiszU08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685004091386-p6n79190glgtsbfqcvanlvkr1im5l1dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
